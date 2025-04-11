@@ -1,7 +1,7 @@
 # 🤖 Corso LangChain: Sviluppo di Applicazioni di Generative AI
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_banner.png" alt="LangChain Banner" width="600px"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="LangChain Banner" width="600px"/>
   <br/>
   <br/>
   <p>
@@ -47,7 +47,7 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
   - Architettura LangChain, installazione e integrazione con OpenAI
   - Configurazione dell'ambiente di sviluppo e gestione sicura delle credenziali
   - Implementazione di un'applicazione Q&A interattiva con OpenAI
-  [Codice della lezione](./lesson-1/)
+  - [Codice della lezione](./lesson-1/)
 
 <!--
 - **Lezione 2:** 📝 [Prompt Engineering e Templates](./lesson-2/)
