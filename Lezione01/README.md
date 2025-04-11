@@ -1,4 +1,5 @@
-# Corso LangChain con OpenAI: Lezione 1 - Introduzione e Configurazione
+# Corso LangChain con OpenAI:
+# Lezione 1 - Guida pratica per creare app di Generative AI con OpenAI
 
 Questo repository contiene il codice e le risorse per la prima lezione del corso su LangChain, dove imparerai a sviluppare applicazioni di AI generativa utilizzando LangChain e OpenAI.
 
