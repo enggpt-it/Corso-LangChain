@@ -1,7 +1,7 @@
 # 🤖 Corso LangChain: Sviluppo di Applicazioni di Generative AI
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="LangChain Banner" width="600px"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="LangChain Banner" width="256px"/>
   <br/>
   <br/>
   <p>
@@ -31,7 +31,7 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
   <table>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="40" height="40"/><br/>LangChain</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" width="40" height="40"/><br/>LangChain</td>
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="40" height="40"/><br/>OpenAI</td>
       <td align="center"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="40" height="40"/><br/>Streamlit</td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Meta_AI_logo.svg" width="40" height="40"/><br/>LLaMA</td>
