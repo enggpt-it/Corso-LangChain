@@ -31,8 +31,8 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
   <table>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" width="40" height="40"/><br/>LangChain</td>
-      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="40" height="40"/><br/>OpenAI</td>
+      <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.45.0/icons/LangChain.svg" width="40" height="40"/><br/>LangChain</td>
+      <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.45.0/icons/OpenAI.svg" width="40" height="40"/><br/>OpenAI</td>
       <td align="center"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="40" height="40"/><br/>Streamlit</td>
       <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.45.0/icons/Ollama.svg" width="40" height="40"/><br/>Ollama</td>
     </tr>
