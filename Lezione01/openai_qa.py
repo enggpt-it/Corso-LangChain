@@ -61,12 +61,10 @@ def interactive_qa(model):
         
         try:
             # Otteniamo la risposta dal modello
-            start_time = time.time()  # Misuriamo il tempo di risposta
             response = ask_question(user_input, model)
-            end_time = time.time()
             
             # Visualizziamo la risposta con alcune informazioni aggiuntive
-            print(f"\nRisposta (generata in {end_time - start_time:.2f} secondi):\n")
+            print(f"\nRisposta:\n")
             print(response)
             print("\n" + "-" * 60 + "\n")
             
@@ -74,9 +72,6 @@ def interactive_qa(model):
             # Gestiamo eventuali errori durante l'interazione con il modello
             print(f"\nSi è verificato un errore: {str(e)}")
             print("Riprova con una domanda diversa.\n")
-
-# Aggiungiamo l'import necessario per la misurazione del tempo
-import time
 
 # Modifichiamo la sezione principale per utilizzare l'interfaccia interattiva
 if __name__ == "__main__":
