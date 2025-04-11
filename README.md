@@ -1,4 +1,4 @@
-# 🤖 Corso Completo su LangChain: Sviluppo di Applicazioni AI Generative
+# 🤖 Corso LangChain: Sviluppo di Applicazioni di Generative AI
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_banner.png" alt="LangChain Banner" width="600px"/>
@@ -6,18 +6,16 @@
   <br/>
   <p>
     <a href="https://python.langchain.com"><img src="https://img.shields.io/badge/docs-API-blue" alt="API Docs"></a>
-    <a href="https://discord.gg/6adMQxSpJS"><img src="https://img.shields.io/badge/Discord-Join%20community-blueviolet" alt="Discord"></a>
+    <a href="https://platform.openai.com"><img src="https://img.shields.io/badge/OpenAI-API-000000?style=flat&logo=openai&logoColor=white" alt="OpenAI API"></a>
     <a href="https://github.com/langchain-ai/langchain/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
-  </p>
+</p>
 </div>
 
 ## 📋 Descrizione del Corso
 
-Questo corso offre un percorso completo per padroneggiare **LangChain**, il framework all'avanguardia per lo sviluppo di applicazioni basate su Large Language Models (LLM). Attraverso lezioni teoriche e progetti pratici, imparerai a costruire applicazioni di AI generativa sofisticate, integrando diversi modelli linguistici, fonti di dati e strumenti esterni.
+Questo corso offre un percorso completo per padroneggiare **LangChain**, il framework all'avanguardia per lo sviluppo di applicazioni basate su Large Language Models (LLM). Attraverso lezioni teoriche e progetti pratici, imparerai a costruire applicazioni di Generative AI sofisticate, integrando diversi modelli linguistici, fonti di dati e strumenti esterni.
 
-Ideale per sviluppatori, data scientist e professionisti tech che desiderano acquisire competenze pratiche nel campo dell'AI generativa e della sua integrazione nei flussi di lavoro aziendali.
-
-## 🎯 Obiettivi di Apprendimento
+## 🎯 Obiettivi di Apprendimento del Corso
 
 - Comprendere l'architettura e i concetti fondamentali di LangChain
 - Sviluppare applicazioni conversazionali potenziate da AI
@@ -35,26 +33,23 @@ Ideale per sviluppatori, data scientist e professionisti tech che desiderano acq
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
       <td align="center"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="40" height="40"/><br/>LangChain</td>
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="40" height="40"/><br/>OpenAI</td>
-      <td align="center"><img src="https://vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br/>Firebase</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/><br/>SQLite</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/><br/>MongoDB</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/><br/>Flask</td>
-      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40"/><br/>React</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/><br/>Postman</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="40" height="40"/><br/>Docker</td>
+      <td align="center"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="40" height="40"/><br/>Streamlit</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Meta_AI_logo.svg" width="40" height="40"/><br/>LLaMA</td>
     </tr>
   </table>
 </div>
 
 ## 📚 Struttura del Corso
 
-### Modulo 1: Fondamenti di LangChain e AI Generativa
-- **Lezione 1:** 🔍 [Introduzione a LangChain e configurazione dell'ambiente](./lesson-1/)
+### Modulo 1: Fondamenti di LangChain e Generative AI
+- **Lezione 1:** 🔍 [Guida pratica per creare app di Generative AI con OpenAI](https://www.enggpt.it/corso-langchain-lezione-01/)
+  - Creazione di un account sviluppatore OpenAI e di una chiave API
   - Architettura LangChain, installazione e integrazione con OpenAI
-  - Applicazione di base Q&A e memoria di conversazione
+  - Configurazione dell'ambiente di sviluppo e gestione sicura delle credenziali
+  - Implementazione di un'applicazione Q&A interattiva con OpenAI
+  [Codice della lezione](./lesson-1/)
 
+<!--
 - **Lezione 2:** 📝 [Prompt Engineering e Templates](./lesson-2/)
   - Strutturazione efficace dei prompt
   - Utilizzo di template e variabili di contesto
@@ -112,13 +107,14 @@ Ideale per sviluppatori, data scientist e professionisti tech che desiderano acq
   - Sviluppo di un'applicazione completa
   - Integrazione di tutte le tecniche apprese
   - Best practices e review del codice
+-->
 
 ## 🚀 Come Iniziare
 
 ### Prerequisiti
-- Python 3.8+
-- Conoscenza base di Python e concetti di programmazione
-- Familiarità con i concetti di base dell'AI e del machine learning (opzionale ma utile)
+- Python 3.8 o versione successiva installato sul tuo sistema
+- Un account OpenAI con crediti API disponibili
+- Conoscenze di base di Python e interfacce a riga di comando
 
 ### Installazione
 
@@ -139,31 +135,13 @@ python -m venv langchain-env
 langchain-env\Scripts\activate
 ```
 
-3. Installa le dipendenze base:
-```bash
-pip install -r requirements.txt
-```
-
-4. Configura le tue API keys:
+3. Configura le tue API keys:
 ```bash
 # Crea un file .env nella root del progetto
 echo "OPENAI_KEY=your_openai_api_key_here" > .env
 ```
 
-5. Segui le istruzioni specifiche di ogni lezione nella relativa directory.
-
-## 📊 Valutazione e Certificazione
-
-- **Esercizi Pratici:** Ogni lezione include esercizi da completare
-- **Progetti Milestone:** Alla fine di ogni modulo è previsto un progetto valutato
-- **Progetto Finale:** Sviluppo di un'applicazione completa in LangChain
-- **Certificato di Completamento:** Rilasciato agli studenti che completano con successo tutte le lezioni e il progetto finale
-
-## 📞 Supporto e Comunità
-
-- **Discord:** Unisciti al nostro [server Discord](https://discord.gg/langchain) per discussioni e supporto
-- **Office Hours:** Sessioni bisettimanali di Q&A con gli istruttori
-- **GitHub Issues:** Segnala problemi o richiedi chiarimenti tramite le issue di GitHub
+4. Segui le istruzioni specifiche di ogni lezione nella relativa directory per installare le dipendenze necessarie ed eseguire il codice correttamente.
 
 ## 📜 Licenza
 
@@ -177,5 +155,5 @@ Un ringraziamento speciale al team di LangChain per lo sviluppo e la manutenzion
 
 <div align="center">
   <p>Sviluppato con ❤️ per la comunità degli sviluppatori AI</p>
-  <p>© 2025 Your Company Name</p>
+  <p>© 2025 enggpt.it</p>
 </div>
