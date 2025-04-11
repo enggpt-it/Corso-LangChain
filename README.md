@@ -34,7 +34,7 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
       <td align="center"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" width="40" height="40"/><br/>LangChain</td>
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="40" height="40"/><br/>OpenAI</td>
       <td align="center"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="40" height="40"/><br/>Streamlit</td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Meta_AI_logo.svg" width="40" height="40"/><br/>LLaMA</td>
+      <td align="center"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.45.0/icons/Ollama.svg" width="40" height="40"/><br/>Ollama</td>
     </tr>
   </table>
 </div>
