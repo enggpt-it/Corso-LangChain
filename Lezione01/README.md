@@ -11,6 +11,7 @@ Prima di iniziare, assicurati di avere:
 - Un account OpenAI con crediti API disponibili
 - Conoscenze di base di Python e interfacce a riga di comando
 
+
 ## Configurazione dell'ambiente di sviluppo
 
 ### 1. Clona il repository
@@ -68,6 +69,7 @@ OPENAI_KEY=your_openai_api_key_here
 
 Sostituisci `your_openai_api_key_here` con la chiave API che hai copiato in precedenza.
 
+
 ## Struttura del progetto
 
 ```
@@ -84,6 +86,7 @@ python openai_qa.py
 ```
 
 Questo script avvierà un'interfaccia interattiva dove potrai porre domande al modello linguistico.
+
 
 ## Risoluzione dei problemi comuni
 
