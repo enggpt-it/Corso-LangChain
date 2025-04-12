@@ -17,7 +17,7 @@ Prima di iniziare, assicurati di avere:
 ### 1. Clona il repository
 
 ```bash
-git clone https://github.com/nynuz/Corso-Langchain.git
+git clone https://github.com/enggpt-it/Corso-Langchain.git
 cd Corso-Langchain/Lezione01
 ```
 
