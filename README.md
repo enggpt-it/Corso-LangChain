@@ -1,6 +1,7 @@
-# 🤖 Corso LangChain {style=text-align:center}
-# <center>🤖 Corso LangChain</center>
-<h1 align="center">🤖 Corso LangChain</h1>
+<h1 align="center">
+  🤖 Corso LangChain<br/>
+  Sviluppo di Applicazioni di Generative AI
+</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="LangChain Banner" width="256px"/>
