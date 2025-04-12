@@ -11,7 +11,7 @@
 </p>
 </div>
 
-## 📋 Descrizione del Corso
+## 📋 Descrizione del Cors
 
 Questo corso offre un percorso completo per padroneggiare **LangChain**, il framework all'avanguardia per lo sviluppo di applicazioni basate su Large Language Models (LLM). Attraverso lezioni teoriche e progetti pratici, imparerai a costruire applicazioni di Generative AI sofisticate, integrando diversi modelli linguistici, fonti di dati e strumenti esterni.
 
