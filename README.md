@@ -1,4 +1,5 @@
-# 🤖 Corso LangChain: Sviluppo di Applicazioni di Generative AI
+# 🤖 Corso LangChain
+# <center>🤖 Corso LangChain</center>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="LangChain Banner" width="256px"/>
