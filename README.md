@@ -120,7 +120,7 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
 
 1. Clona questo repository:
 ```bash
-git clone https://github.com/username/langchain-course.git
+git clone https://github.com/enggpt-it/Corso-LangChain
 cd langchain-course
 ```
 
