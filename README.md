@@ -124,7 +124,7 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
 1. Clona questo repository:
 ```bash
 git clone https://github.com/enggpt-it/Corso-LangChain
-cd langchain-course
+cd Corso-LangChain
 ```
 
 2. Crea un ambiente virtuale:
@@ -140,8 +140,8 @@ langchain-env\Scripts\activate
 
 3. Configura le tue API keys:
 ```bash
-# Crea un file .env nella root del progetto
-echo "OPENAI_KEY=your_openai_api_key_here" > .env
+# Crea un file .env nella root del progetto e inserisci il contenuto:
+OPENAI_KEY=your_openai_api_key_here
 ```
 
 4. Segui le istruzioni specifiche di ogni lezione nella relativa directory per installare le dipendenze necessarie ed eseguire il codice correttamente.

@@ -61,7 +61,7 @@ langchain-openai
 
 #### 4.2 Configura il file delle variabili d'ambiente
 
-Crea un file `.env` nella directory principale del progetto:
+Crea un file `.env` nella directory principale del progetto e inserisci:
 
 ```
 OPENAI_KEY=your_openai_api_key_here
