@@ -44,13 +44,12 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
 
 ## 📚 Struttura del Corso
 
-### Modulo 1: Fondamenti di LangChain e Generative AI
-- **Lezione 1:** 🔍 [Guida pratica per creare app di Generative AI con OpenAI](https://www.enggpt.it/corso-langchain-lezione-01/)
+### Lezione 1:** 🔍 [Guida pratica per creare app di Generative AI con OpenAI](https://www.enggpt.it/corso-langchain-lezione-01/)
   - Creazione di un account sviluppatore OpenAI e di una chiave API
   - Architettura LangChain, installazione e integrazione con OpenAI
   - Configurazione dell'ambiente di sviluppo e gestione sicura delle credenziali
   - Implementazione di un'applicazione Q&A interattiva con OpenAI
-  - [Codice della lezione](./lesson-1/)
+  - [Codice della lezione](./Lezione01/)
 
 <!--
 - **Lezione 2:** 📝 [Prompt Engineering e Templates](./lesson-2/)
