@@ -2,7 +2,7 @@
 
 Questo repository contiene il codice e le risorse per la prima lezione del corso su LangChain, dove imparerai a sviluppare applicazioni di AI generativa utilizzando LangChain e OpenAI.
 
-Link alla lezione del corso: <a href="https://www.enggpt.it/corso-langchain-lezione-01/" target="_blank">https://www.enggpt.it/corso-langchain-lezione-01/</a>
+Link alla lezione del corso: <a href="https://www.forgeai.it/corso-langchain-lezione-01/" target="_blank">https://www.forgeai.it/corso-langchain-lezione-01/</a>
 
 ## Prerequisiti
 
@@ -17,7 +17,7 @@ Prima di iniziare, assicurati di avere:
 ### 1. Clona il repository
 
 ```bash
-git clone https://github.com/enggpt-it/Corso-LangChain
+git clone https://github.com/forgeai-it/Corso-LangChain
 cd Corso-Langchain/Lezione01
 ```
 
