@@ -51,12 +51,14 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
   - Implementazione di un'applicazione Q&A interattiva con OpenAI
   - [Codice della lezione](./Lezione01/)
 
-<!--
-- **Lezione 2:** 📝 [Prompt Engineering e Templates](./lesson-2/)
-  - Strutturazione efficace dei prompt
-  - Utilizzo di template e variabili di contesto
-  - Catene di prompting
+- **Lezione 2:** 📝 [Chatbot AI con Streamlit e memoria conversazionale](https://www.forgeai.it/corso-langchain-lezione-02/)
+  - Monitoraggio utilizo e consumo delle API di OpenAI
+  - Gestione del contesto delle conversazioni
+  - Implementazione della memoria per mantenere la storia della conversazione
+  - Realizzazione di un'interfaccia UI simile a ChatGPT
+  - [Codice della lezione](./Lezione02/)
 
+<!--
 - **Lezione 3:** 🧩 [Modelli, Provider e Configurazioni](./lesson-3/)
   - Integrazione con diversi provider (OpenAI, Google AI, etc.)
   - Ottimizzazione dei parametri del modello

@@ -11,7 +11,7 @@ OPENAI_KEY = config("OPENAI_KEY")
 # - api_key: la chiave di autenticazione per le API OpenAI
 # - temperature: controlla la casualità delle risposte (0.0 = deterministico, 1.0 = massima creatività)
 llm = ChatOpenAI(
-    model="gpt-4o",  # Utilizziamo GPT-4o, attualmente uno dei modelli più avanzati
+    model="gpt-4o-mini",  # Utilizziamo GPT-4o, attualmente uno dei modelli più avanzati
     api_key=OPENAI_KEY,
     temperature=0.2  # Impostiamo una temperatura bassa per risposte più coerenti e precise
 )
