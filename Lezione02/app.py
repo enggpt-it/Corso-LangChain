@@ -61,6 +61,11 @@ class StreamlitChatApp:
         if st.sidebar.button("🔄 Nuova Conversazione", type="secondary"):
             self.reset_conversation()
         
+        # se la folder 'memory' non esiste, la crea per salvare le conversazioni
+        folder_path = "./memory"
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
+        
         # pulsante per salvare la conversazione
         if st.sidebar.button("💾 Salva Conversazione"):
             self.save_conversation()

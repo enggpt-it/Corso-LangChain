@@ -90,8 +90,6 @@ class ConversationManager:
     def save_conversation(self, filename: Optional[str] = None) -> str:
         """Salva la conversazione corrente su un file JSON."""
         folder_path = "./memory"
-        if not os.path.exists(folder_path):
-            os.makedirs(folder_path)
 
         if filename is None:
             filename = os.path.join(folder_path, f"conversation_{self.conversation_id}.json")
