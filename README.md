@@ -51,7 +51,7 @@ Questo corso offre un percorso completo per padroneggiare **LangChain**, il fram
   - Implementazione di un'applicazione Q&A interattiva con OpenAI
   - [Codice della lezione](./Lezione01/)
 
-- **Lezione 2:** 📝 [Chatbot AI con Streamlit e memoria conversazionale](https://www.forgeai.it/corso-langchain-lezione-02/)
+### Lezione 2: 📝 [Chatbot AI con Streamlit e memoria conversazionale](https://www.forgeai.it/corso-langchain-lezione-02/)
   - Monitoraggio utilizo e consumo delle API di OpenAI
   - Gestione del contesto delle conversazioni
   - Implementazione della memoria per mantenere la storia della conversazione
